@@ -11,3 +11,5 @@
 ## 25/09/2026 - python Codes
 
 ## 28/09/2026 - Python exercise
+
+## 05/10/2026 - Automation
